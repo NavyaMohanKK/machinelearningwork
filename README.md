@@ -1,7 +1,9 @@
 # Machine Learning Work
 ## The typical steps involved in a machine learning project: [wiki](https://en.wikipedia.org/wiki/Machine_learning)
 
-## Table of contents
+## Table of contents 
+
+💻
 
 - [Project Definition](#problem-definition)
 - [Code](#code)
