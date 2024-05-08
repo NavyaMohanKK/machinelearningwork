@@ -5,6 +5,9 @@
 
 - [Project Definition](#problem-definition)
 - [Code](#code)
+
+![1__FEbmuPRq9izUwUz_4aVPA](https://github.com/NavyaMohanKK/machinelearningwork/assets/157999445/6b7dcc45-8b3f-49f9-9d8f-090a7d87dca1)
+
 ### Problem Definition
 1. Problem Definition: Clearly define the problem you want to solve. Understand the business objectives and how they can be translated into a machine learning problem.
    
