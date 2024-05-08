@@ -3,8 +3,8 @@
 
 ## Table of contents
 
-[Project Definition](problem-definition)
-[Code](code)
+[Project Definition](#problem-definition)
+[Code](#code)
 ### Problem Definition
 1. Problem Definition: Clearly define the problem you want to solve. Understand the business objectives and how they can be translated into a machine learning problem.
    
