@@ -11,6 +11,7 @@
 ![1__FEbmuPRq9izUwUz_4aVPA](https://github.com/NavyaMohanKK/machinelearningwork/assets/157999445/6b7dcc45-8b3f-49f9-9d8f-090a7d87dca1)
 
 ### Problem Definition
+---
 1. Problem Definition: Clearly define the problem you want to solve. Understand the business objectives and how they can be translated into a machine learning problem.
    
 3. Data Collection: Gather relevant data that will be used to train your machine learning model. This data should be representative of the problem you're trying to solve.
@@ -25,10 +26,15 @@
 9. Model Deployment: Once you're satisfied with the performance of your model, deploy it to a production environment where it can be used to make predictions on new, unseen data.
 10. Monitoring and Maintenance: Continuously monitor the performance of your deployed model in the real-world environment. Update and retrain the model as needed to adapt to changes in the data or the problem domain.
 11. Documentation and Reporting: Document your entire machine learning pipeline, including data sources, preprocessing steps, model selection criteria, training process, evaluation results, and any other relevant information. This documentation helps facilitate collaboration and knowledge sharing within your team and provides transparency for stakeholders.
-
+    
+|Col1|Col2|
+|----|----|
+|Cont|Cont|
 
 ### Code
 
 ```sql
 SELECT * FROM table
 WHERE cond=4
+
+
