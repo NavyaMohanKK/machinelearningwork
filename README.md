@@ -31,6 +31,10 @@
 |----|----|
 |Cont|Cont|
 
+**bol**
+*ita*
+`col`
+
 ### Code
 
 ```sql
